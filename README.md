@@ -25,38 +25,35 @@ $ git config --global user.name "yourgithubusername"
 
 <table>
   <tr>
-    <th>Task</th>
     <th>Description</th>
     <th>Command</th>
   </tr>
   <tr>
-    <td>Tell Git who are you</td>
     <td>Configure the author name and email address to be used with your commits.</td>
     <td>$ git config --global user.email "yourgithub@email.com"<br>
 $ git config --global user.name "yourgithubusername"</td>
   </tr>
   <tr>
-    <td>Centro comercial Moctezuma</td>
+   
     <td>Francisco Chang</td>
     <td>Mexico</td>
   </tr>
   <tr>
-    <td>Ernst Handel</td>
+   
     <td>Roland Mendel</td>
     <td>Austria</td>
   </tr>
   <tr>
-    <td>Island Trading</td>
+    
     <td>Helen Bennett</td>
     <td>UK</td>
   </tr>
   <tr>
-    <td>Laughing Bacchus Winecellars</td>
+    
     <td>Yoshi Tannamuri</td>
     <td>Canada</td>
   </tr>
   <tr>
-    <td>Magazzini Alimentari Riuniti</td>
     <td>Giovanni Rovelli</td>
     <td>Italy</td>
   </tr>
