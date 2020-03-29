@@ -21,18 +21,19 @@ github documentation
 $ git config --global user.email "yourgithub@email.com"<br>
 $ git config --global user.name "yourgithubusername"
 
-<h2>HTML Table</h2>
+<h2>Basic Git Commands</h2>
 
 <table>
   <tr>
-    <th>Company</th>
-    <th>Contact</th>
-    <th>Country</th>
+    <th>Task</th>
+    <th>Description</th>
+    <th>Command</th>
   </tr>
   <tr>
-    <td>Alfreds Futterkiste</td>
-    <td>Maria Anders</td>
-    <td>Germany</td>
+    <td>Tell Git who are you</td>
+    <td>Configure the author name and email address to be used with your commits.</td>
+    <td>$ git config --global user.email "yourgithub@email.com"<br>
+$ git config --global user.name "yourgithubusername"</td>
   </tr>
   <tr>
     <td>Centro comercial Moctezuma</td>
