@@ -15,10 +15,7 @@ github documentation
 
 <h2>Basic Git Commands</h2>
 
-Git Commands
-============
-
-_A list of my commonly used Git commands_
+A list of my commonly used Git commands
 
 ### Getting & Creating Projects
 
