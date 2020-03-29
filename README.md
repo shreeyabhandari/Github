@@ -13,14 +13,6 @@ github documentation
 - provides visual interface to your repo<br>
 - makes collaboration easier<br>
 
-<h3><b>Git Configuration</b></h3> 
-<h4><b>Setting your Git email and username for every repository on your computer</b></h4>
-
-<h4><b>Set a git Email and Username</b></h4>
-
-$ git config --global user.email "yourgithub@email.com"<br>
-$ git config --global user.name "yourgithubusername"
-
 <h2>Basic Git Commands</h2>
 
 Git Commands
@@ -33,7 +25,7 @@ _A list of my commonly used Git commands_
 | Command | Description |
 | ------- | ----------- |
 | `git init` | Initialize a local Git repository |
-| `git clone ssh://git@github.com/[username]/[repository-name].git` | Create a local copy of a remote repository |
+| `git clone ssh://git@github.com/[username]/[repository-name].git`(link) | Create a copy of a remote / local repository |
 
 ### Basic Snapshotting
 
@@ -41,7 +33,7 @@ _A list of my commonly used Git commands_
 | ------- | ----------- |
 | `git status` | Check status |
 | `git add [file-name.txt]` | Add a file to the staging area |
-| `git add -A` | Add all new and changed files to the staging area |
+| `git add -A`/ add . | Add all new and changed files to the staging area |
 | `git commit -m "[commit message]"` | Commit changes |
 | `git rm -r [file-name.txt]` | Remove a file (or folder) |
 
