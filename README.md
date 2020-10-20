@@ -23,6 +23,9 @@ A list of my commonly used Git commands
 | ------- | ----------- |
 | `git init` | Initialize a local Git repository |
 | `git clone ssh://git@github.com/[username]/[repository-name].git`(link) | Create a copy of a remote / local repository |
+| `git config --local credential.helper ""`|to change the username and email to push with different account |
+| `git push` | it will ask you to enter your github_username and github_password |
+
 
 ### Getting & Creating Projects
 
