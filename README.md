@@ -32,7 +32,7 @@ A list of my commonly used Git commands
 | Command | Description |
 | ------- | ----------- |
 | `git config --global user.name "your.user.name"` | Add your user name in terminal globally |
-| `git config --global user.name "your.user.email"` | Add your email in terminal globally |
+| `git config --global user.email "your.user.email"` | Add your email in terminal globally |
 | `git config -l | grep user.name` | Output the username which is logged in |
 | `git config -l | grep user.email` | Output the email which is logged in |
 
